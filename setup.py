@@ -13,7 +13,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='panda3d-assetcoop',
-    version='0.012',
+    version='0.013',
     description='Free to use panda3d models.',
     long_description=long_description,
     long_description_content_type="text/markdown",
