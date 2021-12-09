@@ -9,7 +9,7 @@ from direct.showbase.ShowBase import ShowBase
 
 
 base = ShowBase()
-lona = loader.load_model('scenes/lona.bam')
+lona = loader.load_model('models/scenes/lona.bam')
 lona.ls()
 ```
 
